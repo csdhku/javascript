@@ -1,2 +1,3 @@
-# javascript
-All files for javascript lessons. 
+# Javascript
+Files for javascript lessons.
+
