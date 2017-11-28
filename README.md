@@ -1,2 +1,2 @@
 # javascript
-All files for javascript lessons 
+All files for javascript lessons. 
